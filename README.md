@@ -2,8 +2,8 @@
 <h3 align="center">College🎓| Tea☕️| Code💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshii10&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshii10" /> </p>
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFzNzQ0dnBldG1yNGFnOHgxOGt3eXZnbjVjejk1azY1eWZhM2p1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbJYBCi69nyVOffLIU/giphy.gif)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshii10" alt="divyanshii10" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
