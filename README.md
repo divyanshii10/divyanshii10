@@ -2,7 +2,7 @@
 <h3 align="center">College🎓| Tea☕️| Code💻</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/06/ed/6e/06ed6ea8c3b2a3afa21aca707645dccf.gif" width="400" height="450" />
+  <img src="https://i.pinimg.com/originals/06/ed/6e/06ed6ea8c3b2a3afa21aca707645dccf.gif" width="450" height="450" />
 </p>
 
 
