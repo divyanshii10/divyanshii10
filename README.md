@@ -1,11 +1,11 @@
 <h1 align="center">Hi, Divyanshi this side!👋</h1>
-
+<h3 align="center">College🎓| Tea☕️| Code💻</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/06/ed/6e/06ed6ea8c3b2a3afa21aca707645dccf.gif" width="400" height="450" />
 </p>
 
-<h3 align="center">College🎓| Tea☕️| Code💻</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshii10&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshii10" /> </p>
 <table>
   <tr>
